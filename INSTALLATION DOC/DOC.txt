@@ -1,0 +1,9 @@
+Dla tego ze by pracował trzebа:
+1. Php wersiji 5.6 lub 7<
+2. Apache 2.4
+
+Рroces instalacji   
+1. Unzip File
+2. Zainstalować DB (path:Blog DB/blog.sql)
+3. Zainstalować na serwerze
+   
